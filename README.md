@@ -7,9 +7,10 @@ Notebook y utilidades para convertir y analizar datasets de fútbol (equipos/jug
 parcial_procesamiento_datos_repo/
 ├─ notebooks/
 │  └─ Parcial_Procesamiento_Datos.ipynb
-├─ data/
+├─ docs/
 │  └─ DATA_DICTIONARY.md
-├─ data/          
+├─ data/
+│  └─ <DATOS>      
 └─ README.md
 └─ LICENSE
 ```
