@@ -1,6 +1,6 @@
 # Parcial – Procesamiento de Datos (Fútbol)
 
-Notebook y utilidades para convertir y analizar datasets de fútbol (equipos/jugadores/resultados) en **CSV/Delta**, pensado para usarse en **Databricks** o localmente con Python.
+Notebook y utilidades para convertir y analizar datasets de fútbol (equipos/jugadores/resultados) en **CSV/Delta**, pensado para usarse en **Databricks** 
 
 ## Estructura
 ```
