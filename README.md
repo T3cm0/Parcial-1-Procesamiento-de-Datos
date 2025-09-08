@@ -7,11 +7,8 @@ Notebook y utilidades para convertir y analizar datasets de fútbol (equipos/jug
 parcial_procesamiento_datos_repo/
 ├─ notebooks/
 │  └─ Parcial_Procesamiento_Datos.ipynb
-├─ data/
-│  └─ sample/            
-├─ docs/
-├─ requirements.txt
-├─ .gitignore
+├─ data/          
+└─ README.md
 └─ LICENSE
 ```
 
@@ -23,12 +20,6 @@ parcial_procesamiento_datos_repo/
    IN   = f"{BASE}/temporadas.json"
    OUT  = f"{BASE}/csv_out"
    ```
-3. Ejecuta las celdas de ingestión/transformación.
-
-## Convertir `temporadas.json` a CSV (sin Spark)
-```bash
-python scripts/convert_temporadas_to_csv.py   --in /dbfs/Volumes/workspace/default/parcial/temporadas.json   --out /dbfs/Volumes/workspace/default/parcial/csv_out
-```
 
 ## Licencia
 MIT © 2025 Sebastian Rodriguez
